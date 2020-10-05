@@ -1,5 +1,5 @@
 {
-    "name": "michaelketchel/laravel-chrome-pdf",
+    "name": "chrisbraybrooke/laravel-chrome-pdf",
     "description": "A wrapper for Laravel around the spiritix/php-chrome-html2pdf libary",
     "require": {
         "illuminate/support": "5.5.x|5.6.x|5.7.x|5.8.x|6.0.x",
@@ -13,6 +13,10 @@
         {
             "name": "Christian Braybrooke",
             "email": "chris@purplemountmedia.com"
+        },
+        {
+            "name": "Michael Ketchel",
+            "email": "michael.ketchelgmail.com"
         }
     ],
     "autoload": {
